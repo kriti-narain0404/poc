@@ -1,0 +1,35 @@
+{
+    "videoname": "Highway_Annotation.mp4",
+    "total_duration": "00:22:00:000",
+    "fps": 54,
+    "TimeStamp": [
+        {
+            "attrtype": "Id",
+            "endtime": {
+                "hh": 0,
+                "mm": 0,
+                "ss": 28
+            },
+            "eventtype": "Interacting Center Stack",
+            "starttime": {
+                "hh": 0,
+                "mm": 0,
+                "ss": 14
+            }
+        },
+        {
+            "attrtype": "Id",
+            "endtime": {
+                "hh": 0,
+                "mm": 0,
+                "ss": 56
+            },
+            "eventtype": "Interacting Center Stack",
+            "starttime": {
+                "hh": 0,
+                "mm": 0,
+                "ss": 42
+            }
+        }
+    ]
+}
